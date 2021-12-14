@@ -1,6 +1,12 @@
 # Data Science in Construction
 With Azure
 
+![COBie Data Capture]()
+COBie data capture
+
+![3D Model]()
+3D Model
+
 ## Week 1
 
 ## Week 2
