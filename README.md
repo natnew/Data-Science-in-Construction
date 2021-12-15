@@ -1,6 +1,8 @@
 # Data Science in Construction
 With Azure
 
+![](https://github.com/natnew/Data-Science-in-Construction/blob/main/dennis-kummer-52gEprMkp7M-unsplash.jpg)
+
 ![COBie Data Capture]()
 COBie data capture
 
