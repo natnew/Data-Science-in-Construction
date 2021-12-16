@@ -29,6 +29,11 @@ COBie data capture
 
 ## Week 10
 
+## Ethical Awareness
+
+## Transparency
+
+
 ### Resources 
 How To Think Like A Programmar by Paul Vickers
 
