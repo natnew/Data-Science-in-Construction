@@ -29,4 +29,9 @@ COBie data capture
 
 ## Week 10
 
+### Resources 
+How To Think Like A Programmar by Paul Vickers
 
+### Contact
+[CV]()
+[Portfolio]()
