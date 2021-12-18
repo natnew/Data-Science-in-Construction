@@ -18,7 +18,9 @@ Many AEC companies see this data as unusable for several reasons and, as such, a
 (December 2021)
 
 ## Projects
+### Construction Data
 
+### Other Data
 
 
 ## Ethical Awareness
