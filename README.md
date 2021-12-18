@@ -19,8 +19,14 @@ Many AEC companies see this data as unusable for several reasons and, as such, a
 
 ## Projects
 ### Construction Data
+<img src="https://github.com/natnew/Data-Science-in-Construction/blob/main/joshua-mayo-obJBg2lZjMg-unsplash.jpg" width=50% height=50%>
+Pedict Project Success [Workbook]()
+
+
 
 ### Other Data
+<img src="https://github.com/natnew/Data-Science-in-Construction/blob/main/johan-anblick-wCLGDSpaV6g-unsplash.jpg" width=50% height=50%>
+Reducing Pollution in Cities [Workbook]()
 
 
 ## Ethical Awareness
