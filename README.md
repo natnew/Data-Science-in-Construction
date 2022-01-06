@@ -22,6 +22,13 @@ Many AEC companies see this data as unusable for several reasons and, as such, a
 <img src="https://github.com/natnew/Data-Science-in-Construction/blob/main/joshua-mayo-obJBg2lZjMg-unsplash.jpg" width=50% height=50%>
 Pedict Project Success [Workbook]()
 
+## Data
+
+## Languages
+Python
+
+
+## Talks
 
 
 ### Other Data
