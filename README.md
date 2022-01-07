@@ -23,6 +23,11 @@ Many AEC companies see this data as unusable for several reasons and, as such, a
 Pedict Project Success [Workbook]()
 
 ## Data
+* Design Model
+* Housing
+* Immunotherapy
+* Exam Scores
+* Happiness
 
 ## Languages
 Python
