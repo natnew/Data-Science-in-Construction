@@ -20,7 +20,13 @@ Many AEC companies see this data as unusable for several reasons and, as such, a
 ## Projects
 ### Construction Data
 <img src="https://github.com/natnew/Data-Science-in-Construction/blob/main/joshua-mayo-obJBg2lZjMg-unsplash.jpg" width=50% height=50%>
-Pedict Project Success [Workbook]()
+Pedict Project Success [Workbook]() <br>
+
+### Data - Projects
+[Notebook - Data-Science-With-Tableau ](https://github.com/natnew/Data-Science-With-Tableau)<br>
+[Notebook - 100-Days-of-Data-Science](https://github.com/natnew/100-Days-of-Data-Science)<br>
+[Notebook - 100 Python Projects](https://github.com/natnew/100-Python-Projects)<br>
+[Notebook - Data-Science-Project-Planning](https://github.com/natnew/Data-Science-Project-Planning)<br>
 
 ## Data
 * Design Model
@@ -34,6 +40,7 @@ Python
 
 
 ## Talks
+[Data Science Bootcamp]()<br>
 
 
 ### Other Data
