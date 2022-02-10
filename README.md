@@ -34,6 +34,8 @@ Pedict Project Success [Workbook]() <br>
 * Immunotherapy
 * Exam Scores
 * Happiness
+* Diamonds
+* COBie
 
 ## Languages
 Python
