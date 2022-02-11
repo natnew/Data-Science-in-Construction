@@ -34,7 +34,7 @@ Pedict Project Success [Workbook]() <br>
 * [Immunotherapy](https://github.com/natnew/Data-Science-in-Construction/blob/main/immunotherapy.csv)
 * Exam Scores
 * [Happiness](https://github.com/natnew/Data-Science-in-Construction/blob/main/happiness.csv)
-* Diamonds
+* [Diamonds](https://raw.githubusercontent.com/tidyverse/ggplot2/main/data-raw/diamonds.csv)
 * [COBie](https://github.com/natnew/Data-Science-in-Construction/blob/main/COBieCapture.JPG)
 
 ## Languages
