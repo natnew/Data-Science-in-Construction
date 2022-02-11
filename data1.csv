@@ -1,0 +1,41 @@
+Country ,Office,Rep Employee ID,Salary (£k),Starting date,No. clients,June Sales (£k),July Sales (£k),August Sales (£k)
+England,Bath,131,43,2011,12,48,69,58
+England,Bath,132,44,2018,12,48,35,59
+England,Bath,133,36,2011,14,42,98,53
+England,Bath,134,46,2010,15,45,68,70
+England,London,111,37,2015,13,39,66,44
+England,London,112,44,2010,9,54,57,94
+England,London,113,36,2012,19,114,118,90
+England,London,114,36,2012,17,34,45,73
+England,London,115,35,2015,16,64,116,84
+England,London,116,46,2015,18,72,130,71
+England,London,117,42,2016,21,126,41,106
+England,London,118,41,2014,14,56,99,56
+England,Manchester,121,41,2011,12,48,59,57
+England,Manchester,122,36,2017,17,68,121,100
+England,Manchester,123,46,2012,14,140,77,82
+England,Manchester,124,34,2015,16,80,60,50
+England,Manchester,125,38,2010,14,84,63,83
+England,Manchester,126,36,2018,14,56,64,65
+England,Newcastle,141,43,2016,12,36,64,59
+England,Newcastle,142,35,2014,12,48,73,50
+England,Newcastle,143,34,2014,13,78,27,63
+England,Newcastle,144,29,2015,10,70,58,58
+England,Newcastle,145,45,2010,20,120,172,163
+N. Ireland,Belfast,411,35,2012,13,26,84,52
+N. Ireland,Belfast,412,39,2016,18,108,73,148
+N. Ireland,Belfast,413,42,2013,11,55,35,43
+Scotland,Aberdeen,221,49,2012,16,64,55,85
+Scotland,Aberdeen,222,30,2017,19,14,99,61
+Scotland,Aberdeen,223,38,2012,21,114,85,75
+Scotland,Aberdeen,224,36,2015,19,105,113,115
+Scotland,Glasgow,211,41,2017,11,57,141,130
+Scotland,Glasgow,212,39,2011,18,32,37,57
+Scotland,Glasgow,213,39,2011,10,54,98,56
+Scotland,Glasgow,214,41,2011,16,90,84,88
+Scotland,Glasgow,215,43,2016,13,50,60,56
+Wales,Cardiff,311,49,2016,20,96,56,76
+Wales,Cardiff,312,35,2015,18,52,62,86
+Wales,Cardiff,313,34,2014,15,100,116,99
+Wales,Cardiff,315,26,2014,8,11,54,27
+Wales,Cardiff,314,37,2015,15,50,110,97
