@@ -31,11 +31,11 @@ Pedict Project Success [Workbook]() <br>
 ## Data
 * Design Model
 * Housing
-* Immunotherapy
+* [Immunotherapy](https://github.com/natnew/Data-Science-in-Construction/blob/main/immunotherapy.csv)
 * Exam Scores
-* Happiness
+* [Happiness](https://github.com/natnew/Data-Science-in-Construction/blob/main/happiness.csv)
 * Diamonds
-* COBie
+* [COBie](https://github.com/natnew/Data-Science-in-Construction/blob/main/COBieCapture.JPG)
 
 ## Languages
 Python
