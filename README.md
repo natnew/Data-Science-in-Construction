@@ -42,7 +42,7 @@ Python
 
 
 ## Talks
-[Data Science Bootcamp]()<br>
+[Data Science Bootcamp](https://github.com/natnew/Data-Science-in-Construction/blob/main/Data%20Science%20Journey.pdf)<br>
 
 
 ### Other Data
